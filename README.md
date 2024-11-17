@@ -23,6 +23,10 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
 
+## Link do projeto
+
+Clique aqui: https://8462leo.github.io/CodeConnect/
+
 ## Foto do projeto
 
 ![alt text](image.png)
